@@ -1,7 +1,3 @@
 dist
 node_modules
 src
-.gitignore
-package.json
-webpack.config.js
-README.md
